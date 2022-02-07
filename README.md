@@ -6,7 +6,7 @@ Morse translator based on the client-server model
 ```
 $ git clone https://github.com/LuboDimitrov/Morse-translator.git
 ```
-###2. Make sure you have gcc 8.1.0 or higher installed. Do so by typing this in your console
+### 2. Make sure you have gcc 8.1.0 or higher installed. Do so by typing this in your console
 ```
 $ gcc -v
 ```
