@@ -1,5 +1,5 @@
 # Morse-translator
-Morse translator based on the client-server model
+Morse translator based on the client-server model using TCP sockets
 
 ## Instructions
 ### 1. Clone this repository
@@ -22,5 +22,14 @@ $ gcc ServerMorse.c -o ServerMorse.exe -lwsock32
 
 Now you should see two executable files have been generated.
 
-###5 . To run them just type their names on the console and hit enter
-> I would recommend you running each executable on a separate terminal
+### 5. To run them just type their names on the command prompt and hit enter
+First start the server typing `ServerMorse` on the command propmpt
+
+### 6. Open another terminal and run the client
+Type ``ClientMorse`` on the command prompt and hit enter
+
+### 7. Now type the message you want to endcode
+### 8. Run the client again if you want to encode another message. You can run it in the existing terminal 
+
+
+
