@@ -1,5 +1,5 @@
-# Morse-translator
-Morse translator based on the client-server model using TCP sockets
+# Morse-encoder
+Morse encoder based on the client-server model using TCP sockets
 
 ## Instructions
 ### 1. Clone this repository
