@@ -29,6 +29,8 @@ First start the server typing `ServerMorse` on the command propmpt
 Type ``ClientMorse`` on the command prompt and hit enter
 
 ### 7. Now type the message you want to endcode
+![executionexample](https://user-images.githubusercontent.com/78859431/153050538-bd10a26e-2a49-4713-bfe6-db5625398670.PNG)
+
 ### 8. Run the client again if you want to encode another message. You can run it in the existing terminal 
 
 
